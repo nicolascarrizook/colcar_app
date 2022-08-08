@@ -1,0 +1,122 @@
+[
+    {
+     "dni": 25001002,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 1",
+     "importe": 90,
+     "fechaPago": null,
+     "id": "1"
+    },
+    {
+     "dni": 25001002,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 2",
+     "importe": 30,
+     "fechaPago": null,
+     "id": "2"
+    },
+    {
+     "dni": 25001002,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 3",
+     "importe": 84,
+     "fechaPago": null,
+     "id": "3"
+    },
+    {
+     "dni": 25001002,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 4",
+     "importe": 12,
+     "fechaPago": null,
+     "id": "4"
+    },
+    {
+     "dni": 25001002,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 5",
+     "importe": 82,
+     "fechaPago": null,
+     "id": "5"
+    },
+    {
+     "dni": 40012493,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 6",
+     "importe": 34,
+     "fechaPago": null,
+     "id": "6"
+    },
+    {
+     "dni": 40012493,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 7",
+     "importe": 4,
+     "fechaPago": null,
+     "id": "7"
+    },
+    {
+     "dni": 31345345,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 8",
+     "importe": 56,
+     "fechaPago": null,
+     "id": "8"
+    },
+    {
+     "dni": 31345345,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 9",
+     "importe": 51,
+     "fechaPago": null,
+     "id": "9"
+    },
+    {
+     "dni": 31345345,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 10",
+     "importe": 100,
+     "fechaPago": null,
+     "id": "10"
+    },
+    {
+     "dni": 31345345,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 11",
+     "importe": 71,
+     "fechaPago": null,
+     "id": "11"
+    },
+    {
+     "dni": 31345345,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 12",
+     "importe": 91,
+     "fechaPago": null,
+     "id": "12"
+    },
+    {
+     "dni": 17933451,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 13",
+     "importe": 67,
+     "fechaPago": null,
+     "id": "13"
+    },
+    {
+     "dni": 17933451,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 14",
+     "importe": 92,
+     "fechaPago": null,
+     "id": "14"
+    },
+    {
+     "dni": 17933451,
+     "fecha": "8/8/2022",
+     "infraccion": "infraccion 15",
+     "importe": 92,
+     "fechaPago": null,
+     "id": "15"
+    }
+   ]
